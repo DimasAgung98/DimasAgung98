@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **dimasraden0798@gmail.com**
 
-<br>
-
 ## Connect with me :
 
 <p align="left">
