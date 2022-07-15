@@ -36,4 +36,4 @@
 
 ## Activity Graph :
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dimasagung98&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![DimasAgung github activity graph](https://activity-graph.herokuapp.com/graph?username=dimasagung98&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/dimasagung98/github-readme-activity-graph)
