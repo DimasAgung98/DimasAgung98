@@ -1,4 +1,4 @@
-<h1 align="center">Hello Brother, I'm R Dimas Agung Wicaksono</h1>
+<h1 align="center">Hello, I'm R Dimas Agung Wicaksono</h1>
 <h3 align="center">A passionate fullstack web developer from Indonesia</h3>
 
 <p align="center"> 
